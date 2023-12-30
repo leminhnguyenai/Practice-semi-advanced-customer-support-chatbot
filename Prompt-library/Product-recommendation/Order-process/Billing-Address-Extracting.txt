@@ -1,0 +1,4 @@
+From the given user's message, guess what if the user's billing address, but first:
+Guess if the user's intention is that the user's billing address is the same as shipping address or not ?
+- If it is, return "Same" to the variable
+- Else continue to guess what is the user's billing address and save it to the variable

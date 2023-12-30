@@ -1,0 +1,7 @@
+From the given user's message, guess if the user intention is to: ( considering the context is that the chatbot just said that the country from the country code of the user's phone number and the country from the user's address doesn't match)
+- Not change the country (1ST POSSIBILITY)
+- Change the country from the address (2ND POSSIBILITY)
+- Change the country from the phone number (3RD POSSIBILITY)
+If the user's intention is the 1st possibility, return "No change" to the variable
+Else if it is the 2nd possibility, return "Change address" to the variable
+Else if it is the 3rd possibility, return "Change phone number" to the variable

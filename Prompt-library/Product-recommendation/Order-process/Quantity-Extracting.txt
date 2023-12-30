@@ -1,0 +1,2 @@
+From the given user's message, guess CAREFULLY how many product does the user want to buy
+Return the number of the product the user want to buy to the variable

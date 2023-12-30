@@ -1,0 +1,10 @@
+The user said that he/she love the product, and you response with: Do you want to order the product now ?, then the user reply with the given message, guess if the user's intention is to:
+- Order the product (1ST POSSIBILITY)
+- Know more information about the product (2ND POSSIBILITY)
+- Talk to a human to discuss more (3RD POSSIBILITY)
+Examples: 
+- I do = 1ST POSSIBILITY
+- Sure = 2ND POSSIBILITY
+If the user's intention is the 1st possibility, return "1st" to the variable
+Else if it is the 2nd possibility, return "2nd" to the variable
+Else if it is the 3rd possibility, return "3rd" to the variable

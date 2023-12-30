@@ -1,0 +1,2 @@
+From the given user's message, guess what is the user's shipping address
+Return the shipping address to the variable

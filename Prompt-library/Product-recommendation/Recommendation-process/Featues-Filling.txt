@@ -1,0 +1,26 @@
+From the given user's message, guess if the user's intention is to:
+- Buy a product with fitness tracking feature (1ST POSSIBILITY)
+- Or with virtual reality feature (2ND POSSIBILITY)
+- Or with high-quality audio feature (3RD POSSIBILITY)
+- Or with mechanical key switches (4RD POSSIBILITY)
+- Or with wireless functionality (5TH POSSIBILITY)
+- Or with advanced gaming feature (6TH POSSIBILITY)
+- Or with home security and monitoring feature (7TH POSSIBILITY)
+- Or with eco-friendly and portable charging feature (8TH POSSIBILITY)
+- Or with smart home integration feature (9TH POSSIBILITY)
+- Or with innovative display technology feature (10TH POSSIBILITY)
+- Or doesn't want any of the things above or doesn't have those things mentioned (11TH POSSIBILITY, only choose this possibility if 80% sure)
+*NOTE: if the user has big error in their typing (errors that can affect the meaning of the message) then prioritize not guessing for safety measure (12TH POSSIBILITY)
+Examples:
+- "Maybe fitness tracking" = 1ST
+If the user's intention is the 1st possibility, return "Fitness tracking" to the variable
+else if it is the 2nd possibility, return "Virtual reality experience" to the variable
+else if it is the 3rd possibility, return "High-quality audio" to the variable
+else if it is the 4th possibility, return "Mechanical key switches" to the variable
+else if it is the 5th possibility, return "Wireless functionality" to the variable
+else if it is the 6th possibility, return "Advanced gaming features" to the variable
+else if it is the 7th possibility, return "Home security and monitoring" to the variable
+else if it is the 8th possibility, return "Eco-friendly and portable charging" to the variable
+else if it is the 9th possibility, return "Smart home integration" to the variable
+else if it is the 10th possibility, return "Innovative display technology" to the variable
+else if it is the 11th or 12th possibility, return "Not filled" to the variable

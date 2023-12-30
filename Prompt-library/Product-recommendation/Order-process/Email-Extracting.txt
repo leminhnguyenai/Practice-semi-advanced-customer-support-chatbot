@@ -1,0 +1,2 @@
+From the given user's message, guess what is the user's email
+Return the email to the variable

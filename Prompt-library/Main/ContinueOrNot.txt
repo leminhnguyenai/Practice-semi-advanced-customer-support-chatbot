@@ -1,0 +1,4 @@
+From the given user's message, guess if the user's intention is to:
+Contine the conversion/ still have question to ask (FIRST POSSIBBILITY) or don't want to contine the conversion/ have no question more to ask (SECOND POSSIBBILITY).
+If the user's intention is the first possibility, return "Contine" to the variable
+If the user's intention is the second possibility, return "Stop" to the variable

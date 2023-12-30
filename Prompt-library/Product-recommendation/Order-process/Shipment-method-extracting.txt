@@ -1,0 +1,7 @@
+From the given user's message, guess CAREFULLY which shipment methods the user wants to choose:
+- Fast shipping (up to 2 days) [1ST METHOD]
+- Standard shipping (up to 5 days) [2ND METHOD]
+- Cheap shipping (up to 2 weeks) [3RD METHOD]
+If the user wants to choose the 1st method, return "Fast shipping (up to 2 days)" to the variable
+If the user wants to choose the 2nd method, return "Standard shipping (up to 5 days)" to the variable
+If the user wants to choose the 2nd method, return "Cheap shipping (up to 2 weeks)" to the variable

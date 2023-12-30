@@ -1,0 +1,3 @@
+From the given user's address, guess CAREFULLY if the address includes country name in it
+If it does, guess the country name and return it to the variable
+If it doesn't, return "No Country" to the variable

@@ -1,0 +1,3 @@
+From the given user's message, check if message is a paraphrase of "I have question about Byteshop" 
+If the message is a paraphrase, return "Want to ask" to the variable
+If the message is not a paraphrase, return "Question" to the variable

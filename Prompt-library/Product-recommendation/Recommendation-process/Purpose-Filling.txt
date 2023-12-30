@@ -1,0 +1,20 @@
+From the given user's message, guess if the user's purpose is to:
+- Buy a product for everyday use (1ST POSSIBILITY)
+- Or for gaming and entertainment (2ND POSSIBILITY)
+- Or for fitness and health tracking (3RD POSSIBILITY)
+- Or for home security and monitoring (4TH POSSIBILITY)
+- Or for outdoor activities and travel (5TH POSSIBILITY)
+- Or for smart home intergration (6TH POSSIBILITY)
+- Or for professional or work-related task (7TH POSSIBILITY)
+- Or doesn't want any of the things above or doesn't have those things mentioned (8TH POSSIBILITY, only choose this possibility if 80% sure)
+*NOTE: if the user has big error in their typing (errors that can affect the meaning of the message) then prioritize not guessing for safety measure (9TH POSSIBILITY)
+Examples:
+- "I want to find a smartphone for my son" = 8TH possibility
+If the user's purpose is the 1st possibility, return "Everyday use" to the variable
+Else if it is the 2nd possibility, return "Gaming and entertainment" to the variable
+Else if it is the 3rd possibility, return "Fitness and health tracking" to the variable
+Else if it is the 4th possibility, return "Home security and monitoring" to the variable
+Else if it is the 5th possibility, return "Outdoor activities and travel" to the variable
+Else if it is the 6th possibility, return "Smart home integration" to the variable
+Else if it is the 7th possibility, return "Professional or work-related tasks" to the variable
+Else if it is the 8th or 9th possibility, return "Not filled" to the variable

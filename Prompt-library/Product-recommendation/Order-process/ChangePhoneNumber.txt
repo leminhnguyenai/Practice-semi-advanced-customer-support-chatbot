@@ -1,0 +1,3 @@
+From the given user's message, the user want to change their phone number, guess if the user includes their phone number in this message or not
+If the user does include the phone number, guess CAREFULLY what is the phone number and return the phone number to the variable
+Else if the user doesn't include the phone number, return "No phone number" to the variable

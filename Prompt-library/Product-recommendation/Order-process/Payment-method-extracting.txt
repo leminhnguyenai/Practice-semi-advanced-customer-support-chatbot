@@ -1,0 +1,7 @@
+From the given user's message, guess CAREFULLY which payment methods the user wants to choose:
+- By cash [1ST METHOD]
+- By credit card [2ND METHOD]
+- By bank transfer [3RD METHOD]
+If the user wants to choose the 1st method, return "By cash" to the variable
+If the user wants to choose the 2nd method, return "By credit card" to the variable
+If the user wants to choose the 2nd method, return "By bank transfer" to the variable

@@ -1,0 +1,7 @@
+From the given user' message, guess if the user's intention means that the user still want to continue the conversation or not 
+Examples:
+- "I'm satisfied with the answers" = "Stop"
+- "I'm done" = "Stop"
+- "I want need help with other things" = "Stop"
+If the user's intention is want to continue the conversation, return "Continue" to the variable
+If the user's intention is want to discontinue the conversation, return "Stop" to the variable

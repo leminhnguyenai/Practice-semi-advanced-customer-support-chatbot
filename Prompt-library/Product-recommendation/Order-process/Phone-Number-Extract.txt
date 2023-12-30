@@ -1,0 +1,2 @@
+From the given user's message, guess what is the user's phone number
+return the phone number to the variable

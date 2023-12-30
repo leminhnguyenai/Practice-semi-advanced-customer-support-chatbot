@@ -1,0 +1,12 @@
+From the given user's message, guess if the user's intention is to:
+- Wants a smart devies type of product (1ST POSSIBILITY)
+- Or a gaming gear type of product (2ND POSSIBILITY)
+- Or an Audio accessories type of product (3RD POSSIBILITY)
+- Or an Outdoor Tech type of product (4TH POSSIBILITY)
+- Or the user doesn't want any of the things above or the user intention doesn't has those things mentioned (5TH POSSIBILITY, only choose this possibility if you are 80% sure)
+*NOTE: if the user has big error in their typing (errors that can affect the meaning of the message) then prioritize not guessing for safety measure (6TH POSSIBILITY)
+If the user's intention is the 1st possibility then return "Smart devices" to the variable
+Else if it is the 2nd possibility then return "Gaming Gear" to the variable 
+Else if it is the 3rd possibility then return "Audio Accessories" to the variable
+Else if it is the 4th possibility then return "Outdoor Tech" to the variable
+Else if it is the 5th or 6th possibility then return "Not filled"

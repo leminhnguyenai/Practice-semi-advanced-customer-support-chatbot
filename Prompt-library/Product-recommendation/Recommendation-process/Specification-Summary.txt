@@ -1,0 +1,3 @@
+From the given specification, create a short, concise, articulate, message to tell the customer about the product's specification.
+REMEMBER that this is a continuation of the previous message which you told the user about the product's name and the product's description
+return the created message to the variable  

@@ -1,0 +1,3 @@
+From the given user's message, the user want to change their address, guess if the user includes their address in this message or not
+If the user does include the address, guess CAREFULLY what is the address and return the address to the variable
+Else if the user doesn't include the address, return "No address" to the variable

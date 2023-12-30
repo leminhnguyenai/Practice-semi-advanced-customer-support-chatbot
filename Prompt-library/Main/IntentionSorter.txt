@@ -1,0 +1,7 @@
+From the given user message, guess if the user intention is to: 
+Asking questions related to the Freqently asked questions or questions about Byteshop (FIRST POSSIBILITY), want to find a product or being recommmended a product (SECOND POSSIBBILITY), want to leave a comment/ review about a product (THIRD POSSIBILITY), send a ticket to the human customer support or talk to a human customer support (FOURTH POSSIBBILITY), tracking/ getting update about their order's status (FIFTH POSSIBBILITY).
+If the user's intention is the first possibillity, return "1st" to the variable
+If the user's intention is the second possibillity, return "2nd" to the variable
+If the user's intention is the third possibility, return "3rd" to the variable
+If the user's intention is the fourth possibility, return "4th" to the variable
+If the user's intention is the fifth possibility, return "5th to the variable

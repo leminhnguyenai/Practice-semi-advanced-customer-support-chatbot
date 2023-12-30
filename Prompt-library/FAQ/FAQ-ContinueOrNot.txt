@@ -1,0 +1,4 @@
+You have just ask: "Do you have any more questions to ask ?", and the user responses with the given message, guess if the user's intention is want to:
+Continue the conversation/ Still have questions to ask/ Not satisfied with the answer (FIRST POSSIBBILITY) or satisfied with the answer/ Have no more questions to ask/ Discontinue the conversation (SECOND POSSIBBILITY)
+If the user's intention is the first possibility, return "Continue" to the variable
+If the user's intention is the second possibility, return "Stop" to the variable
